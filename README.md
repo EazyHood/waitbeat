@@ -4,6 +4,10 @@ A small musical waiting experience for AI agents. Build a four-track, sixteen-st
 
 Built for Commonsmade's **Make Waiting for AI Fun** (August 27–September 17, 2026).
 
+**[Try Waitbeat on Commonsmade](https://waitbeat.vibe.commonsmade.com/)** · [Additional demo](https://waitbeat-jdr.jhona999.chatgpt.site/)
+
+Submitted on September 10, 2026; the event dashboard confirmed **ENTRY SUBMITTED**. This is an entry confirmation, not a prize result. The published client JavaScript and CSS were compared with the validated source, and all four page tools were checked on the native public origin. The hosting platform adds its own analytics scripts to the served page.
+
 ## What is real, and what is simulated
 
 - Real: editable sequencer, synthesized Web Audio drums, tempo control, pause/mute, device-local pattern, interruption and failure handling, a provider-independent Promise adapter, and page tools for supported WebMCP browsers.
